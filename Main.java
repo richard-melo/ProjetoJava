@@ -1,19 +1,3 @@
-// Atributos:
-
-// Para a classe Gasto: tipo (String), data (Date), valor (double), formaDePagamento (String)
-// Para a classe Ganho: tipo (String), data (Date), valor (double)
-// Para a classe RelatorioMensal: mes (int), ano (int)
-// Métodos:
-
-// Para a classe Gasto: construtor, getters e setters
-// Para a classe Ganho: construtor, getters e setters
-// Para a classe RelatorioMensal: construtor, getters e setters, calculaGanhoTotal, calculaGastoTotal, calculaSaldo
-// Classes:
-
-// Gasto
-// Ganho
-// RelatorioMensal
-
 import java.text.DecimalFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
